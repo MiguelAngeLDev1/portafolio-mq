@@ -1,0 +1,5 @@
+[build]
+publish = "." #El punto (.) indiqueca que los archivos estan en la raiz
+
+[context.production.environment]
+NODE_ENV = "production"

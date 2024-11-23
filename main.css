@@ -710,7 +710,7 @@ section,
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-image: url("/static/assets/img/hero-bg.jpg");
+  background-image: url("/img/hero-bg.jpg");
   background-size: cover;
 
 }
